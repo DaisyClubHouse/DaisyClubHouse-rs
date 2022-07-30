@@ -15,7 +15,7 @@ impl GobandManager {
 struct GobandRoom {
     id: u32,               // 房间ID
     name: String,          // 房间名称
-    gameCfg: GobandConfig, // 游戏设置
+    game_cfg: GobandConfig, // 游戏设置
 }
 
 struct GobandConfig {

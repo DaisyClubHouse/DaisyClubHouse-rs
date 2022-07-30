@@ -1,5 +1,4 @@
 use std::net::TcpStream;
-
 use tungstenite::WebSocket;
 
 pub struct PlayerClient {
